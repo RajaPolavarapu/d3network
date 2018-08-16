@@ -1,0 +1,19 @@
+{
+  "name": "d3network",
+  "version": "1.0.0",
+  "description": "D3 Network Visual",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajaPolavarapu/d3network.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajaPolavarapu/d3network/issues"
+  },
+  "homepage": "https://github.com/RajaPolavarapu/d3network#readme"
+}
